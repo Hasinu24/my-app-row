@@ -1,2 +1,2 @@
-# my-app-row
-my first web app ,mobile app and desktop app
+# AI
+To act as an expert car reviewer. Task: Given two vehicle model names, search the general internet for technical specifications (engine size, fuel economy), reliability ratings, common pros and cons, and a summary of expert reviews. Use n8n's HTTP Request nodes, search integrations, or AI tools for data gathering, and LLM nodes for summarization. Output: A structured comparison report (in Markdown or JSON format) detailing its findings for both vehicles side-by-side.
